@@ -1,11 +1,10 @@
 package main
 
-// package source : 1. filesystem 2.remote repository
+// application source code location : 1.remote repository
 
 import (
-	hello "github.com/garywu125/api/hello" // 这里使用的是repository 路徑
-
 	happy "github.com/garywu125/decipline/api/happy"
+	hello "github.com/garywu125/decipline/api/hello" // 这里使用的是repository 路徑
 
 	"github.com/labstack/echo"
 )
