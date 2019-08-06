@@ -4,7 +4,7 @@ package main
 
 import (
 	happy "github.com/garywu125/decipline/api/happy"
-	hello "github.com/garywu125/decipline/api/hello" // 这里使用的是repository 路徑
+	hello "github.com/garywu125/decipline/api/hello"
 
 	"github.com/labstack/echo"
 )
