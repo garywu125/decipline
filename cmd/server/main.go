@@ -3,8 +3,8 @@ package main
 // application source code location : 1.remote repository
 
 import (
-	happy "github.com/garywu125/decipline/api/happy"
-	hello "github.com/garywu125/decipline/api/hello"
+	happy "github.com/garywu125/decipline/pkg/happy"
+	hello "github.com/garywu125/decipline/pkg/hello"
 
 	"github.com/labstack/echo"
 )

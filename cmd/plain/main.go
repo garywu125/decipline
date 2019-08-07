@@ -5,9 +5,9 @@ package main
 import (
 	"fmt"
 
-	happy "github.com/garywu125/decipline/api/happy"
-	hello "github.com/garywu125/decipline/api/hello"
-	util "github.com/garywu125/decipline/util"
+	util "github.com/garywu125/decipline/internal/util"
+	happy "github.com/garywu125/decipline/pkg/happy"
+	hello "github.com/garywu125/decipline/pkg/hello"
 	"github.com/labstack/echo"
 )
 
